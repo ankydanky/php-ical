@@ -4,8 +4,6 @@ PHP-iCal is a PHP class for generating simple ICS files
 It is completely based on RFC5545, the iCal standard. It does NOT implement every feature but the most basic ones. 
 Every one who's looking for a simple class i think is right here. Here a few examples:
 
-<?php
-
 # load class
 require_once('class.ical.php');
 
@@ -42,5 +40,3 @@ $ical->SetAlarmTrigger(30);
 # finally write the generated ics file to browser or file
 $ical->Write(); => output to browser (useful for immediate download)
 $ical->Write("myfile.ics"); => output to file
-
-?>
