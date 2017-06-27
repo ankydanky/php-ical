@@ -10,7 +10,7 @@
  * @version 0.2
  * @license http://opensource.org/licenses/BSD-3-Clause
  *
- * Copyright (c) 2013, ANDY KAYL
+ * Copyright (c) 2017, ND.K
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without modification, are permitted provided
